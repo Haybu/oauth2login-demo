@@ -1,4 +1,6 @@
 .idea
+**/.idea
+.idea/**
 out
 **/uaa/.gradle/**
 **/build
